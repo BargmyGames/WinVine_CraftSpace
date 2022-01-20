@@ -1,0 +1,36 @@
+﻿{
+	"name": "CraftSpace (WebMode)",
+	"version": "1.0.0.0",
+	"description": "",
+	"id": "",
+	"viewport-width": 854,
+	"viewport-height": 480,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "any",
+	"c2version": "217",
+	"used-plugins": [
+		"Browser",
+		"Button",
+		"Keyboard",
+		"List",
+		"Mouse",
+		"Multiplayer",
+		"NodeWebkit",
+		"Pode_QRDecode",
+		"Sprite",
+		"Text",
+		"TextBox",
+		"TiledBg",
+		"Touch"
+	],
+	"used-behaviors": [
+		"DragnDrop",
+		"EightDir",
+		"Physics",
+		"Platform",
+		"destroy",
+		"scrollto"
+	]
+}
